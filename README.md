@@ -24,7 +24,6 @@ The set of possible decisions are valid, invalid, unknown, and unsafe.
   - Valid announcements are authorized by a verified ROA.
   - Invalid announcements are contradicted by a verified ROA.
   - Unknown announcements are not covered by a verified ROA.
-  - Unsafe announcements are authorized by an unverified ROA.
 
 ## Output
 Each detection is reported as a one-line JSON object with the following format:
